@@ -1,2 +1,2 @@
 # cv
-Complete career information
+About career, qualifications, and education. 
