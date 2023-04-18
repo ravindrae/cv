@@ -1,0 +1,16 @@
+body {
+    background: hsl(36deg 60% 91%);
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5rem;
+}
+
+h1, h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 12px;
+    width: 5%;
+    color: lightgray;
+}
